@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #eeeee4;
+}
+
+.navbar{
+	background-color: transparent !important;
+}
+
+.navbar-brand{
+	color: black;
+	font-size: 40px;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+.title{
+	padding-top: 120px;
+	padding-bottom: 60px;
+}
+
+.btn-style{
+	width: 100%;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+
+.add-edit{
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;	
+}
+
+.btn-add,
+.btn-cancel {
+	margin-top: 30px;
+	width: 100%;	
+}
